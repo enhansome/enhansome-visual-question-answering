@@ -77,7 +77,7 @@
             "last_commit": "2023-03-30T11:32:37Z",
             "owner": "AndersonStra",
             "repo": "MuKEA",
-            "stars": 101
+            "stars": 99
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2023-02-03T04:27:32Z",
             "owner": "peteanderson80",
             "repo": "bottom-up-attention",
-            "stars": 1470
+            "stars": 1469
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2023-03-28T09:36:40Z",
             "owner": "zhjohnchan",
             "repo": "awesome-image-captioning",
-            "stars": 1071
+            "stars": 1067
           }
         },
         {
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:25:12.077Z",
+    "last_updated": "2026-08-14T20:17:33.035Z",
     "original_repository": "jokieleung/awesome-visual-question-answering",
     "original_repository_sha": "b889431acb1a0910825324a71b88f70a78350c06",
     "enhanced_repository": "enhansome/enhansome-visual-question-answering",
