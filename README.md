@@ -432,7 +432,7 @@ Markdown format:
 
 #### OTHER
 
-Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
+Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
 
 #### ICCV 2017
 
@@ -474,7 +474,7 @@ To the extent possible under law, [Jokie Leung](https://github.com/jokieleung) h
 ## Reference and Acknowledgement
 
 * [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) ⭐ 1,067 | 🐛 3 | 📅 2023-03-28 from [Zhihong Chen](https://github.com/zhjohnchan)
-* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 439 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
+* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
 
 Really appreciate for their contributions in this area.
 
