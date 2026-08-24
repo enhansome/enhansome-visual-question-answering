@@ -104,11 +104,11 @@ Markdown format:
 
 #### ACL 2022
 
+* [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [\[data\]](https://github.com/Adapter-Hub/xGQA) ⭐ 25 | 🐛 0 | 📅 2022-03-04
 * [CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment](https://aclanthology.org/2022.acl-long.421.pdf) - Haoyu Song et al, **ACL 2022**.
 * [CARETS: A Consistency And Robustness Evaluative Test Suite for VQA](https://aclanthology.org/2022.acl-long.443.pdf) - Carlos Jimenez et al, **ACL 2022**.
 * [Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering](https://aclanthology.org/2022.acl-long.29.pdf) - Yu-Jung Heo et al, **ACL 2022**.
 * [DuReader\_vis: A Chinese Dataset for Open-domain Document Visual Question Answering](https://aclanthology.org/2022.findings-acl.105.pdf) - Le Qi et al, **ACL 2022 (Findings)**.
-* [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [\[data\]](https://github.com/Adapter-Hub/xGQA) ⭐ 25 | 🐛 0 | 📅 2022-03-04
 * [Co-VQA : Answering by Interactive Sub Question Sequence](https://aclanthology.org/2022.findings-acl.188.pdf) - Ruonan Wang et al, **ACL 2022 (Findings)**.
 
 #### CVPR 2022
@@ -341,26 +341,26 @@ Markdown format:
 
 #### OTHER
 
+* [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://arxiv.org/abs/1902.08355) - Sang-Woo Lee et al, **ICLR 2019**. [\[code\]](https://github.com/naver/aqm-plus) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2019-02-12
 * [Focal Visual-Text Attention for Memex Question Answering](https://ieeexplore.ieee.org/abstract/document/8603827/) - Junwei Liang et al, **TPAMI 2019**. [\[code\]](https://memexqa.cs.cmu.edu/)
 * Plenty is Plague: Fine-Grained Learning for Visual Question Answering - Yiyi Zhou et al, **TPAMI 2019**.
 * [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. \[code]
-* [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://arxiv.org/abs/1902.08355) - Sang-Woo Lee et al, **ICLR 2019**. [\[code\]](https://github.com/naver/aqm-plus) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2019-02-12
 
 ### 2018
 
 #### NIPS 2018
 
+* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 150 | 🐛 6 | 🌐 Python | 📅 2019-03-11
 * [Bilinear Attention Networks](https://papers.nips.cc/paper/7429-bilinear-attention-networks) - Jin-Hwa Kim et al, **NIPS 2018**. \[code]
 * [Chain of Reasoning for Visual Question Answering](https://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering) - Chenfei Wu et al, **NIPS 2018**. \[code]
-* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 150 | 🐛 6 | 🌐 Python | 📅 2019-03-11
 * [Learning to Specialize with Knowledge Distillation for Visual Question Answering](https://papers.nips.cc/paper/8031-learning-to-specialize-with-knowledge-distillation-for-visual-question-answering) - Jonghwan Mun et al, **NIPS 2018**. \[code]
 * [Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering](https://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering) - Medhini Narasimhan et al, **NIPS 2018**. \[code]
 * [Overcoming Language Priors in Visual Question Answering with Adversarial Regularization](https://papers.nips.cc/paper/7427-overcoming-language-priors-in-visual-question-answering-with-adversarial-regularization) - Sainandan Ramakrishnan et al, **NIPS 2018**. \[code]
 
 #### AAAI 2018
 
-* [Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16446) - Somak Aditya et al, **AAAI 2018**. \[code]
 * [Co-Attending Free-Form Regions and Detections with Multi-Modal Multiplicative Feature Embedding for Visual Question Answering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16249) - Pan Lu et al, **AAAI 2018**. [\[code\]](https://github.com/lupantech/dual-mfa-vqa) ⭐ 40 | 🐛 1 | 🌐 Matlab | 📅 2018-06-02
+* [Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16446) - Somak Aditya et al, **AAAI 2018**. \[code]
 * [Exploring Human-Like Attention Supervision in Visual Question Answering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16485) - Somak Aditya et al, **AAAI 2018**. \[code]
 * [Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16359) - Bo Wang et al, **AAAI 2018**. \[code]
 
@@ -405,6 +405,7 @@ Markdown format:
 
 #### ECCV 2018
 
+* [Visual Question Generation for Class Acquisition of Unknown Objects](http://openaccess.thecvf.com/content_ECCV_2018/html/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.html) - Kohei Uehara et al, **ECCV 2018**. [\[code\]](https://github.com/mil-tokyo/vqg-unknown) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2018-08-09
 * [Visual Question Answering as a Meta Learning Task](http://openaccess.thecvf.com/content_ECCV_2018/html/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.html) - 	Damien Teney et al, **ECCV 2018**. \[code]
 * [Question-Guided Hybrid Convolution for Visual Question Answering](http://openaccess.thecvf.com/content_ECCV_2018/html/gao_peng_Question-Guided_Hybrid_Convolution_ECCV_2018_paper.html) - Peng Gao et al, **ECCV 2018**. \[code]
 * [Goal-Oriented Visual Question Generation via Intermediate Rewards](http://openaccess.thecvf.com/content_ECCV_2018/html/Junjie_Zhang_Goal-Oriented_Visual_Question_ECCV_2018_paper.html) - Junjie Zhang et al, **ECCV 2018**. \[code]
@@ -414,7 +415,6 @@ Markdown format:
 * [Question Type Guided Attention in Visual Question Answering](http://openaccess.thecvf.com/content_ECCV_2018/html/Yang_Shi_Question_Type_Guided_ECCV_2018_paper.html) - Yang Shi et al, **ECCV 2018**. \[code]
 * [Learning Visual Question Answering by Bootstrapping Hard Attention](http://openaccess.thecvf.com/content_ECCV_2018/html/Mateusz_Malinowski_Learning_Visual_Question_ECCV_2018_paper.html) - Mateusz Malinowski et al, **ECCV 2018**. \[code]
 * [Straight to the Facts: Learning Knowledge Base Retrieval for Factual Visual Question Answering](http://openaccess.thecvf.com/content_ECCV_2018/html/Medhini_Gulganjalli_Narasimhan_Straight_to_the_ECCV_2018_paper.html) - Medhini Narasimhan et al, **ECCV 2018**. \[code]
-* [Visual Question Generation for Class Acquisition of Unknown Objects](http://openaccess.thecvf.com/content_ECCV_2018/html/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.html) - Kohei Uehara et al, **ECCV 2018**. [\[code\]](https://github.com/mil-tokyo/vqg-unknown) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2018-08-09
 
 #### OTHER
 
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -61,6 +61,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "xGQA: Cross-Lingual Visual Question Answering",
+                  "description": "Jonas Pfeiffer et al, ACL 2022 (Findings). [data]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 405930359,
+                    "language": null,
+                    "last_commit": "2022-03-04T21:33:18Z",
+                    "owner": "adapter-hub",
+                    "repo": "xGQA",
+                    "stars": 25
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ACL 2022"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering",
                   "description": "Yang Ding et al, CVPR 2022. [code]",
                   "children": [],
@@ -123,6 +145,94 @@
               "description": null,
               "node_type": "group",
               "title": "CVPR 2022"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+                  "description": "Xiaojian Ma et al, ICLR 2022. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 470390219,
+                    "language": "Python",
+                    "last_commit": "2022-09-10T16:01:52Z",
+                    "owner": "NVlabs",
+                    "repo": "RelViT",
+                    "stars": 62
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ICLR 2022"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering",
+                  "description": "Mingxiao Li et al, AAAI 2022. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469315943,
+                    "language": "Python",
+                    "last_commit": "2024-05-24T19:28:07Z",
+                    "owner": "Mingxiao-Li",
+                    "repo": "DMMGR",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AAAI 2022"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering",
+                  "description": "Min Peng et al, IJCAI 2022. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 493601473,
+                    "language": "Python",
+                    "last_commit": "2022-05-19T00:55:39Z",
+                    "owner": "Mvrjustid",
+                    "repo": "MHN-IJCAI22",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IJCAI 2022"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation",
+                  "description": "Jun Wang et al, BMVC 2022. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 524551515,
+                    "language": "Python",
+                    "last_commit": "2022-12-08T18:50:16Z",
+                    "owner": "HenryJunW",
+                    "repo": "TAG",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "BMVC 2022"
             }
           ],
           "description": null,
@@ -448,6 +558,28 @@
               "description": null,
               "node_type": "group",
               "title": "EMNLP 2020"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text",
+                  "description": "Difei Gao et al, CVPR 2020. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 245418987,
+                    "language": "Python",
+                    "last_commit": "2023-05-22T22:17:42Z",
+                    "owner": "likenneth",
+                    "repo": "mmgnn_textvqa",
+                    "stars": 51
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CVPR 2020"
             }
           ],
           "description": null,
@@ -604,6 +736,28 @@
               "description": null,
               "node_type": "group",
               "title": "AAAI 2019"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation",
+                  "description": "Sang-Woo Lee et al, ICLR 2019. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170253410,
+                    "language": "Python",
+                    "last_commit": "2019-02-12T06:40:47Z",
+                    "owner": "naver",
+                    "repo": "aqm-plus",
+                    "stars": 50
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OTHER"
             }
           ],
           "description": null,
@@ -612,6 +766,50 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Learning Conditioned Graph Structures for Interpretable Visual Question Answering",
+                  "description": "Will Norcliffe-Brown et al, NIPS 2018. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 138054004,
+                    "language": "Python",
+                    "last_commit": "2019-03-11T12:00:33Z",
+                    "owner": "aimbrain",
+                    "repo": "vqa-project",
+                    "stars": 150
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NIPS 2018"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Co-Attending Free-Form Regions and Detections with Multi-Modal Multiplicative Feature Embedding for Visual Question Answering",
+                  "description": "Pan Lu et al, AAAI 2018. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 111102906,
+                    "language": "Matlab",
+                    "last_commit": "2018-06-02T12:32:43Z",
+                    "owner": "lupantech",
+                    "repo": "dual-mfa-vqa",
+                    "stars": 40
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AAAI 2018"
+            },
             {
               "children": [
                 {
@@ -670,6 +868,28 @@
               "description": null,
               "node_type": "group",
               "title": "ACM MM 2018"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Visual Question Generation for Class Acquisition of Unknown Objects",
+                  "description": "Kohei Uehara et al, ECCV 2018. [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140542207,
+                    "language": "Python",
+                    "last_commit": "2018-08-09T13:00:56Z",
+                    "owner": "mil-tokyo",
+                    "repo": "vqg-unknown",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ECCV 2018"
             },
             {
               "children": [
@@ -828,7 +1048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:01:05.081Z",
+    "last_updated": "2026-08-24T14:20:32.994Z",
     "original_repository": "jokieleung/awesome-visual-question-answering",
     "original_repository_id": 173578866,
     "original_repository_sha": "b889431acb1a0910825324a71b88f70a78350c06",
