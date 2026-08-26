@@ -310,7 +310,7 @@ Markdown format:
 
 #### CVPR 2019
 
-* [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [\[code\]](https://github.com/MILVLG/mcan-vqa) ⭐ 459 | 🐛 1 | 🌐 Python | 📅 2020-12-16
+* [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [\[code\]](https://github.com/MILVLG/mcan-vqa) ⭐ 458 | 🐛 1 | 🌐 Python | 📅 2020-12-16
 * [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487) - Remi Cadene et al, **CVPR 2019**. [\[code\]](https://github.com/Cadene/murel.bootstrap.pytorch) ⭐ 194 | 🐛 18 | 🌐 Python | 📅 2020-02-09
 * [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai et al, **CVPR 2019**. [\[code\]](https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph) ⭐ 152 | 🐛 1 | 🌐 Python | 📅 2020-02-20
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855) - Jiaxin Shi et al, **CVPR 2019**. [\[code\]](https://github.com/shijx12/XNM-Net) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2019-03-17
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
