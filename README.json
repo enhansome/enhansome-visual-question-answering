@@ -1048,9 +1048,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:35.960Z",
-    "original_repository": "jokieleung/awesome-visual-question-answering",
-    "original_repository_id": 173578866,
+    "last_updated": "2026-08-27T12:11:25.202Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 173578866,
+      "language": null,
+      "last_commit": "2023-07-06T00:38:03Z",
+      "owner": "jokieleung",
+      "repo": "awesome-visual-question-answering",
+      "stars": 673
+    },
     "original_repository_sha": "b889431acb1a0910825324a71b88f70a78350c06",
     "enhanced_repository": "enhansome/enhansome-visual-question-answering",
     "enhanced_repository_description": null,
