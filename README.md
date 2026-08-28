@@ -373,7 +373,7 @@ Markdown format:
 
 #### CVPR 2018
 
-* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,634 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 768 | 🐛 19 | 🌐 Python | 📅 2024-03-10
+* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 768 | 🐛 19 | 🌐 Python | 📅 2024-03-10
 * [Textbook Question Answering Under Instructor Guidance With Memory Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html) - Juzheng Li et al, **CVPR 2018**. [\[code\]](https://github.com/freerailway/igmn) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2018-06-20
 * [Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge](http://openaccess.thecvf.com/content_cvpr_2018/html/Teney_Tips_and_Tricks_CVPR_2018_paper.html) - Damien Teney et al, **CVPR 2018**. \[code]
 * [Learning by Asking Questions](http://openaccess.thecvf.com/content_cvpr_2018/html/Misra_Learning_by_Asking_CVPR_2018_paper.html) - Ishan Misra et al, **CVPR 2018**. \[code]
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
