@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our EMNLP-2022 paper: \"Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA\"",
+                    "homepage": null,
                     "id": 548870142,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-01T10:41:16Z",
+                    "open_issues": 1,
                     "owner": "PhoebusSi",
                     "repo": "VQA-VS",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our EMNLP-2022 paper: \"Towards Robust Visual Question Answering: Making the Most of Biased Samples via Contrastive Learning\"",
+                    "homepage": null,
                     "id": 547981527,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-22T04:29:17Z",
+                    "open_issues": 0,
                     "owner": "PhoebusSi",
                     "repo": "MMBS",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CRIPP-VQA Benchmark -- EMNLP, 2022",
+                    "homepage": "https://maitreyapatel.com/CRIPP-VQA/",
                     "id": 555107281,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-30T08:09:19Z",
+                    "open_issues": 0,
                     "owner": "Maitreyapatel",
                     "repo": "CRIPP-VQA",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -69,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 405930359,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-03-04T21:33:18Z",
+                    "open_issues": 0,
                     "owner": "adapter-hub",
                     "repo": "xGQA",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -92,12 +112,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering",
+                    "homepage": null,
                     "id": 427815329,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-30T11:32:37Z",
+                    "open_issues": 19,
                     "owner": "AndersonStra",
                     "repo": "MuKEA",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -108,12 +133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 450448752,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-06-27T18:27:34Z",
+                    "open_issues": 3,
                     "owner": "SRI-CSL",
                     "repo": "TrinityMultimodalTrojAI",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -124,12 +154,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 430924484,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-10-21T17:30:27Z",
+                    "open_issues": 1,
                     "owner": "vipulgupta1011",
                     "repo": "swapmix",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -140,12 +175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 471704038,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-08-14T06:13:31Z",
+                    "open_issues": 0,
                     "owner": "jingchenchen",
                     "repo": "ReasoningConsistency-VQA",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -163,12 +203,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2022] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+                    "homepage": null,
                     "id": 470390219,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-09-10T16:01:52Z",
+                    "open_issues": 3,
                     "owner": "NVlabs",
                     "repo": "RelViT",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "hico-det",
+                      "iclr2022",
+                      "pytorch",
+                      "visual-reasoning",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -186,12 +237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 469315943,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-24T19:28:07Z",
+                    "open_issues": 1,
                     "owner": "Mingxiao-Li",
                     "repo": "DMMGR",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -209,12 +265,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering (IJCAI22)",
+                    "homepage": null,
                     "id": 493601473,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-05-19T00:55:39Z",
+                    "open_issues": 0,
                     "owner": "Mvrjustid",
                     "repo": "MHN-IJCAI22",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -232,12 +293,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 524551515,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T18:50:16Z",
+                    "open_issues": 3,
                     "owner": "HenryJunW",
                     "repo": "TAG",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -262,12 +328,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of \"Debiased Visual Question Answering from Feature and Sample Perspectives\" (NeurIPS 2021)",
+                    "homepage": null,
                     "id": 415471084,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-10-13T19:41:39Z",
+                    "open_issues": 9,
                     "owner": "Zhiquan-Wen",
                     "repo": "D-VQA",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -278,12 +349,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code repo for \"ProTo: program-guided Transformers for Program-guided Tasks",
+                    "homepage": null,
                     "id": 420298522,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-15T01:24:41Z",
+                    "open_issues": 0,
                     "owner": "sjtuytc",
                     "repo": "Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -294,12 +370,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code for nips 2021's paper. Coming soon.",
+                    "homepage": null,
                     "id": 420636840,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-10T09:37:39Z",
+                    "open_issues": 0,
                     "owner": "AlanSwift",
                     "repo": "DH-GAN",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -317,12 +398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2021] MIRTT: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering",
+                    "homepage": null,
                     "id": 403966198,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-07T12:25:08Z",
+                    "open_issues": 0,
                     "owner": "IIGROUP",
                     "repo": "MIRTT",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -333,12 +419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "New approach to benchmark VQA models",
+                    "homepage": "https://patilli.github.io/vqa_benchmarking/",
                     "id": 381973547,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-25T14:04:58Z",
+                    "open_issues": 0,
                     "owner": "patilli",
                     "repo": "vqa_benchmarking",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -356,12 +447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and Experiments for ACL-IJCNLP 2021 Paper \"Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering.\"",
+                    "homepage": null,
                     "id": 370713310,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-02-22T00:28:49Z",
+                    "open_issues": 1,
                     "owner": "siddk",
                     "repo": "vqa-outliers",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -372,12 +468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our ACL2021 paper:  \"Check It Again: Progressive Visual Question Answering via Visual Entailment\"",
+                    "homepage": null,
                     "id": 367100200,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-24T08:29:03Z",
+                    "open_issues": 0,
                     "owner": "PhoebusSi",
                     "repo": "SAR",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -395,12 +496,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 360898805,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-05-10T19:54:44Z",
+                    "open_issues": 0,
                     "owner": "prdwb",
                     "repo": "okvqa-release",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -411,12 +517,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the code for SIGIR 2021 \"LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering\"",
+                    "homepage": null,
                     "id": 315632296,
                     "language": "HTML",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-08-04T02:56:26Z",
+                    "open_issues": 0,
                     "owner": "jokieleung",
                     "repo": "LPF-VQA",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -434,12 +545,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2021] Counterfactual VQA: A Cause-Effect Look at Language Bias",
+                    "homepage": null,
                     "id": 343676709,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-12-15T15:34:08Z",
+                    "open_issues": 8,
                     "owner": "yuleiniu",
                     "repo": "cfvqa",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": [
+                      "causal-inference",
+                      "causality",
+                      "counterfactual",
+                      "cvpr",
+                      "cvpr2021",
+                      "language-bias",
+                      "pytorch",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -450,12 +575,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GQA-OOD is a new dataset and benchmark for the evaluation of VQA models in OOD (out of distribution) settings.",
+                    "homepage": null,
                     "id": 312616484,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-03-01T08:18:04Z",
+                    "open_issues": 3,
                     "owner": "gqa-ood",
                     "repo": "GQA-OOD",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -473,12 +603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 266386094,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-06-10T13:00:43Z",
+                    "open_issues": 0,
                     "owner": "idansc",
                     "repo": "mrr-ndcg",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -489,12 +624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLEVR_HYP: A Challenge Dataset and Baselines forVisual Question Answering with Hypothetical Actions over Images",
+                    "homepage": null,
                     "id": 349670415,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-01-17T20:28:50Z",
+                    "open_issues": 1,
                     "owner": "shailaja183",
                     "repo": "clevr_hyp",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -512,12 +652,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VisualMRC: Machine Reading Comprehension on Document Images (AAAI2021)",
+                    "homepage": "https://arxiv.org/abs/2101.11272",
                     "id": 319853880,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-03-31T06:02:07Z",
+                    "open_issues": 0,
                     "owner": "nttmdlab-nlp",
                     "repo": "VisualMRC",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -528,12 +673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data of our AAAI2021 paper \"A Case Study of the Shortcut Effects in Visual Commonsense Reasoning\"",
+                    "homepage": null,
                     "id": 255693668,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-03-15T06:19:28Z",
+                    "open_issues": 2,
                     "owner": "yekeren",
                     "repo": "VCR-shortcut-effects-study",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -558,12 +708,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the implementation of EMNLP 2020 \"Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering\"",
+                    "homepage": null,
                     "id": 362353306,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-09T10:48:57Z",
+                    "open_issues": 2,
                     "owner": "jokieleung",
                     "repo": "CL-VQA",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -574,12 +729,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 261045346,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-02-14T07:25:37Z",
+                    "open_issues": 5,
                     "owner": "tejas-gokhale",
                     "repo": "vqa_mutant",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -597,12 +757,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pytorch implementation of CVPR 2020 paper: Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text",
+                    "homepage": null,
                     "id": 245418987,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-05-22T22:17:42Z",
+                    "open_issues": 2,
                     "owner": "likenneth",
                     "repo": "mmgnn_textvqa",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "gnn",
+                      "pytorch",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -627,12 +796,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Modular Co-Attention Networks for Visual Question Answering",
+                    "homepage": null,
                     "id": 190539767,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-12-16T04:07:19Z",
+                    "open_issues": 1,
                     "owner": "MILVLG",
                     "repo": "mcan-vqa",
-                    "stars": 458
+                    "stars": 458,
+                    "topics": [
+                      "attention",
+                      "visual-question-answering",
+                      "visual-reasoning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -643,12 +821,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MUREL (CVPR 2019), a multimodal relational reasoning module for VQA",
+                    "homepage": "https://arxiv.org/abs/1902.09487",
                     "id": 172678664,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-02-09T23:10:56Z",
+                    "open_issues": 18,
                     "owner": "Cadene",
                     "repo": "murel.bootstrap.pytorch",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -659,12 +842,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'19] [PyTorch] Gated Spatio Temporal Energy Graph",
+                    "homepage": null,
                     "id": 177600492,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-20T16:04:04Z",
+                    "open_issues": 1,
                     "owner": "yaohungt",
                     "repo": "Gated-Spatio-Temporal-Energy-Graph",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -675,12 +863,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of \"Explainable and Explicit Visual Reasoning over Scene Graphs \"",
+                    "homepage": null,
                     "id": 151685010,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-03-17T15:58:22Z",
+                    "open_issues": 4,
                     "owner": "shijx12",
                     "repo": "XNM-Net",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "clevr",
+                      "cvpr2019",
+                      "explainable-ai",
+                      "neural-module-networks",
+                      "scene-graph",
+                      "visual-reasoning"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -698,12 +898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BLOCK (AAAI 2019), with a multimodal fusion library for deep learning models",
+                    "homepage": "https://arxiv.org/abs/1902.00038",
                     "id": 168431885,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-12-04T10:01:18Z",
+                    "open_issues": 10,
                     "owner": "Cadene",
                     "repo": "block.bootstrap.pytorch",
-                    "stars": 354
+                    "stars": 354,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -714,12 +919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering",
+                    "homepage": null,
                     "id": 156211385,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-15T06:28:44Z",
+                    "open_issues": 0,
                     "owner": "lixiangpengcs",
                     "repo": "PSAC",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -730,12 +940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "World Knowledge Based Visual Question Answering",
+                    "homepage": null,
                     "id": 156123633,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-26T18:29:47Z",
+                    "open_issues": 8,
                     "owner": "sanket0211",
                     "repo": "WK-VQA",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -746,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Project for Dynamic Capsule Attention",
+                    "homepage": null,
                     "id": 157169267,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-07T08:58:06Z",
+                    "open_issues": 0,
                     "owner": "XMUVQA",
                     "repo": "CapsAtt",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -762,12 +982,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Project for Pairwise Inconformity Learning",
+                    "homepage": null,
                     "id": 157171884,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-05-15T03:17:35Z",
+                    "open_issues": 0,
                     "owner": "xiangmingLi",
                     "repo": "PIL",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -785,12 +1010,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation (AQM+) (ICLR 2019)",
+                    "homepage": null,
                     "id": 170253410,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-02-12T06:40:47Z",
+                    "open_issues": 1,
                     "owner": "naver",
                     "repo": "aqm-plus",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -815,12 +1045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our paper: Learning Conditioned Graph Structures for Interpretable Visual Question Answering",
+                    "homepage": null,
                     "id": 138054004,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-03-11T12:00:33Z",
+                    "open_issues": 6,
                     "owner": "aimbrain",
                     "repo": "vqa-project",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -838,12 +1073,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Co-attending Regions and Detections for VQA.",
+                    "homepage": null,
                     "id": 111102906,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2018-06-02T12:32:43Z",
+                    "open_issues": 1,
                     "owner": "lupantech",
                     "repo": "dual-mfa-vqa",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "aaai",
+                      "attention-mechanism",
+                      "caffe",
+                      "faster-rcnn",
+                      "multi-gpu",
+                      "multi-modal",
+                      "object-detection",
+                      "torch",
+                      "visual-question-answering",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -861,12 +1112,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bottom-up attention model for image captioning and VQA, based on Faster R-CNN and Visual Genome",
+                    "homepage": "http://panderson.me/up-down-attention/",
                     "id": 92554388,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-02-03T04:27:32Z",
+                    "open_issues": 80,
                     "owner": "peteanderson80",
                     "repo": "bottom-up-attention",
-                    "stars": 1469
+                    "stars": 1469,
+                    "topics": [
+                      "caffe",
+                      "captioning-images",
+                      "faster-rcnn",
+                      "image-captioning",
+                      "mscoco",
+                      "mscoco-dataset",
+                      "visual-question-answering",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -877,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 122149906,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-06-20T06:37:04Z",
+                    "open_issues": 1,
                     "owner": "freerailway",
                     "repo": "igmn",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -900,12 +1170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 125007091,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-07-02T15:40:28Z",
+                    "open_issues": 3,
                     "owner": "SVQA-founder",
                     "repo": "SVQA",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -923,12 +1198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 140542207,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-08-09T13:00:56Z",
+                    "open_issues": 0,
                     "owner": "mil-tokyo",
                     "repo": "vqg-unknown",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -946,12 +1226,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Better Way to Attend: Attention with Trees for Video Question Answering",
+                    "homepage": null,
                     "id": 96062435,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-25T04:31:17Z",
+                    "open_issues": 0,
                     "owner": "ZJULearning",
                     "repo": "TreeAttention",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -962,12 +1247,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R-VQA: Visual Question Answering with Relation Facts",
+                    "homepage": null,
                     "id": 134447189,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-05-11T04:31:19Z",
+                    "open_issues": 2,
                     "owner": "lupantech",
                     "repo": "rvqa",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -992,12 +1282,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visual Question Answering in Pytorch",
+                    "homepage": null,
                     "id": 91613727,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-11T23:54:10Z",
+                    "open_issues": 19,
                     "owner": "Cadene",
                     "repo": "vqa.pytorch",
-                    "stars": 733
+                    "stars": 733,
+                    "topics": [
+                      "clevr",
+                      "coco",
+                      "deep-learning",
+                      "pytorch",
+                      "resnet",
+                      "skipthoughts",
+                      "torch",
+                      "vgenome",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -1008,12 +1313,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 96906539,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-30T13:33:23Z",
+                    "open_issues": 2,
                     "owner": "yuzcccc",
                     "repo": "vqa-mfb",
-                    "stars": 184
+                    "stars": 184,
+                    "topics": [
+                      "bilinear-pooling",
+                      "deep-learning",
+                      "high-order-pooling",
+                      "vqa"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -1024,12 +1339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Structured Attentions for Visual Question Answering",
+                    "homepage": null,
                     "id": 98260048,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-03-04T10:39:06Z",
+                    "open_issues": 0,
                     "owner": "shtechair",
                     "repo": "vqa-sva",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 },
@@ -1040,12 +1360,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation",
+                    "homepage": null,
                     "id": 98866181,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-08-01T03:20:17Z",
+                    "open_issues": 3,
                     "owner": "Cold-Winter",
                     "repo": "vqs",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
                 }
@@ -1072,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of image captioning and related area resources. :-)",
+            "homepage": null,
             "id": 144955493,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-28T09:36:40Z",
+            "open_issues": 3,
             "owner": "zhjohnchan",
             "repo": "awesome-image-captioning",
-            "stars": 1067
+            "stars": 1067,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:24.552Z"
         },
@@ -1088,12 +1418,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Q&A reading list ",
+            "homepage": null,
             "id": 59876005,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-10-07T10:19:09Z",
+            "open_issues": 5,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
-            "stars": 437
+            "stars": 437,
+            "topics": [
+              "arxiv",
+              "papers",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-29T02:28:24.552Z"
         }
@@ -1102,15 +1441,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:24.552Z",
+    "last_updated": "2026-08-29T04:41:16.184Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
+      "homepage": null,
       "id": 173578866,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-06T00:38:03Z",
+      "open_issues": 4,
       "owner": "jokieleung",
       "repo": "awesome-visual-question-answering",
-      "stars": 673
+      "stars": 673,
+      "topics": [
+        "attention-networks",
+        "awesome-list",
+        "multi-modal",
+        "multi-modal-learning",
+        "vqa"
+      ]
     },
     "original_repository_sha": "b889431acb1a0910825324a71b88f70a78350c06",
     "enhanced_repository": "enhansome/enhansome-visual-question-answering",
