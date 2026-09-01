@@ -141,7 +141,7 @@ Markdown format:
 
 #### NeurIPS 2021
 
-* [Debiased Visual Question Answering from Feature and Sample Perspectives](https://openreview.net/pdf?id=Z4ry59PVMq8) - Zhiquan Wen et al, **NeurIPS 2021**. [\[code\]](https://github.com/Zhiquan-Wen/D-VQA) ⭐ 26 | 🐛 9 | 🌐 Python | 📅 2022-10-13
+* [Debiased Visual Question Answering from Feature and Sample Perspectives](https://openreview.net/pdf?id=Z4ry59PVMq8) - Zhiquan Wen et al, **NeurIPS 2021**. [\[code\]](https://github.com/Zhiquan-Wen/D-VQA) ⭐ 26 | 🐛 8 | 🌐 Python | 📅 2022-10-13
 * [Proto: Program-guided transformer for program-guided tasks](https://proceedings.neurips.cc/paper/2021/hash/8d34201a5b85900908db6cae92723617-Abstract.html) - Zelin Zhao et al, **NeurIPS 2021**. [\[code\]](https://github.com/sjtuytc/Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2022-04-15
 * [Learning to Generate Visual Questions with Noisy Supervision](https://openreview.net/pdf?id=LMotP3zsq_d) - Kai Shen et al, **NeurIPS 2021**. [\[code\]](https://github.com/AlanSwift/DH-GAN) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2022-10-10
 * [Human-Adversarial Visual Question Answering](https://arxiv.org/abs/2106.02280) - Sasha Sheng et al, **NeurIPS 2021**. [\[code\]](https://adversarialvqa.org/)
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
