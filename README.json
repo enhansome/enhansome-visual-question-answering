@@ -334,7 +334,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2022-10-13T19:41:39Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "Zhiquan-Wen",
                     "repo": "D-VQA",
                     "stars": 26,
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:06:39.555Z",
+    "last_updated": "2026-09-02T22:01:38.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
