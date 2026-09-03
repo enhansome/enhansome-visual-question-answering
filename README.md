@@ -350,7 +350,7 @@ Markdown format:
 
 #### NIPS 2018
 
-* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 150 | 🐛 6 | 🌐 Python | 📅 2019-03-11
+* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 149 | 🐛 6 | 🌐 Python | 📅 2019-03-11
 * [Bilinear Attention Networks](https://papers.nips.cc/paper/7429-bilinear-attention-networks) - Jin-Hwa Kim et al, **NIPS 2018**. \[code]
 * [Chain of Reasoning for Visual Question Answering](https://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering) - Chenfei Wu et al, **NIPS 2018**. \[code]
 * [Learning to Specialize with Knowledge Distillation for Visual Question Answering](https://papers.nips.cc/paper/8031-learning-to-specialize-with-knowledge-distillation-for-visual-question-answering) - Jonghwan Mun et al, **NIPS 2018**. \[code]
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

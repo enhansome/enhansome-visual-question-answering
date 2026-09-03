@@ -1054,7 +1054,7 @@
                     "open_issues": 6,
                     "owner": "aimbrain",
                     "repo": "vqa-project",
-                    "stars": 150,
+                    "stars": 149,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:01:38.645Z",
+    "last_updated": "2026-09-03T21:55:31.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
