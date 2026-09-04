@@ -114,7 +114,7 @@ Markdown format:
 #### CVPR 2022
 
 * [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.09138) - Yang Ding et al, **CVPR 2022**. [\[code\]](https://github.com/AndersonStra/MuKEA) ⭐ 99 | 🐛 19 | 🌐 Python | 📅 2023-03-30
-* [Dual-Key Multimodal Backdoors for Visual Question Answering](https://arxiv.org/abs/2112.07668) - Matthew Walmer et al, **CVPR 2022**. [\[code\]](https://github.com/SRI-CSL/TrinityMultimodalTrojAI) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2022-06-27
+* [Dual-Key Multimodal Backdoors for Visual Question Answering](https://arxiv.org/abs/2112.07668) - Matthew Walmer et al, **CVPR 2022**. [\[code\]](https://github.com/SRI-CSL/TrinityMultimodalTrojAI) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2022-06-27
 * [SwapMix: Diagnosing and Regularizing the Over-reliance on Visual Context in Visual Question Answering](https://arxiv.org/abs/2204.02285) - Vipul Gupta et al, **CVPR 2022**. [\[code\]](https://github.com/vipulgupta1011/swapmix) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-10-21
 * [Maintaining Reasoning Consistency in Compositional Visual Question Answering](https://jingchenchen.github.io/files/papers/2022/CVPR_DLR.pdf) - Chenchen Jing et al, **CVPR 2022**. [\[code\]](https://github.com/jingchenchen/ReasoningConsistency-VQA) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-08-14
 * [SimVQA: Exploring Simulated Environments for Visual Question Answering](https://arxiv.org/abs/2203.17219) - Paola Cascante-Bonilla et al, **CVPR 2022**. [\[code\]](https://www.cs.rice.edu/~pc51/simvqa/)
@@ -373,7 +373,7 @@ Markdown format:
 
 #### CVPR 2018
 
-* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 768 | 🐛 19 | 🌐 Python | 📅 2024-03-10
+* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 769 | 🐛 19 | 🌐 Python | 📅 2024-03-10
 * [Textbook Question Answering Under Instructor Guidance With Memory Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html) - Juzheng Li et al, **CVPR 2018**. [\[code\]](https://github.com/freerailway/igmn) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2018-06-20
 * [Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge](http://openaccess.thecvf.com/content_cvpr_2018/html/Teney_Tips_and_Tricks_CVPR_2018_paper.html) - Damien Teney et al, **CVPR 2018**. \[code]
 * [Learning by Asking Questions](http://openaccess.thecvf.com/content_cvpr_2018/html/Misra_Learning_by_Asking_CVPR_2018_paper.html) - Ishan Misra et al, **CVPR 2018**. \[code]
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

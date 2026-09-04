@@ -142,7 +142,7 @@
                     "open_issues": 3,
                     "owner": "SRI-CSL",
                     "repo": "TrinityMultimodalTrojAI",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:55:31.999Z",
+    "last_updated": "2026-09-04T21:52:37.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
