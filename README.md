@@ -373,7 +373,7 @@ Markdown format:
 
 #### CVPR 2018
 
-* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 769 | 🐛 19 | 🌐 Python | 📅 2024-03-10
+* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,631 | 🐛 150 | 🌐 Python | 📅 2026-07-07 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 769 | 🐛 19 | 🌐 Python | 📅 2024-03-10
 * [Textbook Question Answering Under Instructor Guidance With Memory Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html) - Juzheng Li et al, **CVPR 2018**. [\[code\]](https://github.com/freerailway/igmn) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2018-06-20
 * [Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge](http://openaccess.thecvf.com/content_cvpr_2018/html/Teney_Tips_and_Tricks_CVPR_2018_paper.html) - Damien Teney et al, **CVPR 2018**. \[code]
 * [Learning by Asking Questions](http://openaccess.thecvf.com/content_cvpr_2018/html/Misra_Learning_by_Asking_CVPR_2018_paper.html) - Ishan Misra et al, **CVPR 2018**. \[code]
@@ -432,7 +432,7 @@ Markdown format:
 
 #### OTHER
 
-Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
+Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
 
 #### ICCV 2017
 
@@ -474,10 +474,10 @@ To the extent possible under law, [Jokie Leung](https://github.com/jokieleung) h
 ## Reference and Acknowledgement
 
 * [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) ⭐ 1,067 | 🐛 3 | 📅 2023-03-28 from [Zhihong Chen](https://github.com/zhjohnchan)
-* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 5 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
+* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
 
 Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

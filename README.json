@@ -1424,7 +1424,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2018-10-07T10:19:09Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
             "stars": 437,
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:18:10.823Z",
+    "last_updated": "2026-09-08T22:02:55.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
