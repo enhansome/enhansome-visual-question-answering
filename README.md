@@ -8,7 +8,7 @@ A curated list of **Visual Question Answering(VQA)**(Image/Video Question Answer
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/jokieleung/awesome-visual-question-answering/pulls) ⭐ 673 | 🐛 4 | 📅 2023-07-06 or email (<leungjokie@gmail.com>) to add links.
+Please feel free to send me [pull requests](https://github.com/jokieleung/awesome-visual-question-answering/pulls) ⭐ 674 | 🐛 4 | 📅 2023-07-06 or email (<leungjokie@gmail.com>) to add links.
 Markdown format:
 
 ```markdown
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
