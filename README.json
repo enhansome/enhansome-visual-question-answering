@@ -1406,7 +1406,7 @@
             "open_issues": 3,
             "owner": "zhjohnchan",
             "repo": "awesome-image-captioning",
-            "stars": 1068,
+            "stars": 1069,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:14:09.869Z",
+    "last_updated": "2026-09-30T23:13:55.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",

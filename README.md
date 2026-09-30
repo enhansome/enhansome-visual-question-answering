@@ -473,11 +473,11 @@ To the extent possible under law, [Jokie Leung](https://github.com/jokieleung) h
 
 ## Reference and Acknowledgement
 
-* [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) ⭐ 1,068 | 🐛 3 | 📅 2023-03-28 from [Zhihong Chen](https://github.com/zhjohnchan)
+* [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) ⭐ 1,069 | 🐛 3 | 📅 2023-03-28 from [Zhihong Chen](https://github.com/zhjohnchan)
 * [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
 
 Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
