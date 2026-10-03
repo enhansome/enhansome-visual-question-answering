@@ -936,7 +936,7 @@
                 {
                   "node_type": "item",
                   "title": "WK-VQA: World Knowledge-enabled Visual Question Answering - Sanket Shah et al, AAAI 2019. [code]",
-                  "description": null,
+                  "description": "sanket0211/WK-VQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:23.780Z",
+    "last_updated": "2026-10-03T05:16:19.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
