@@ -93,7 +93,7 @@
                     "open_issues": 0,
                     "owner": "adapter-hub",
                     "repo": "xGQA",
-                    "stars": 25,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1054,7 +1054,7 @@
                     "open_issues": 6,
                     "owner": "aimbrain",
                     "repo": "vqa-project",
-                    "stars": 149,
+                    "stars": 150,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1291,7 +1291,7 @@
                     "open_issues": 19,
                     "owner": "Cadene",
                     "repo": "vqa.pytorch",
-                    "stars": 733,
+                    "stars": 734,
                     "topics": [
                       "clevr",
                       "coco",
@@ -1427,7 +1427,7 @@
             "open_issues": 6,
             "owner": "chingyaoc",
             "repo": "awesome-vqa",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "arxiv",
               "papers",
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:59:27.884Z",
+    "last_updated": "2026-10-09T23:36:17.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",

@@ -104,7 +104,7 @@ Markdown format:
 
 #### ACL 2022
 
-* [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [\[data\]](https://github.com/Adapter-Hub/xGQA) ⭐ 25 | 🐛 0 | 📅 2022-03-04
+* [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [\[data\]](https://github.com/Adapter-Hub/xGQA) ⭐ 24 | 🐛 0 | 📅 2022-03-04
 * [CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment](https://aclanthology.org/2022.acl-long.421.pdf) - Haoyu Song et al, **ACL 2022**.
 * [CARETS: A Consistency And Robustness Evaluative Test Suite for VQA](https://aclanthology.org/2022.acl-long.443.pdf) - Carlos Jimenez et al, **ACL 2022**.
 * [Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering](https://aclanthology.org/2022.acl-long.29.pdf) - Yu-Jung Heo et al, **ACL 2022**.
@@ -350,7 +350,7 @@ Markdown format:
 
 #### NIPS 2018
 
-* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 149 | 🐛 6 | 🌐 Python | 📅 2019-03-11
+* [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://papers.nips.cc/paper/8054-learning-conditioned-graph-structures-for-interpretable-visual-question-answering) - Will Norcliffe-Brown et al, **NIPS 2018**. [\[code\]](https://github.com/aimbrain/vqa-project) ⭐ 150 | 🐛 6 | 🌐 Python | 📅 2019-03-11
 * [Bilinear Attention Networks](https://papers.nips.cc/paper/7429-bilinear-attention-networks) - Jin-Hwa Kim et al, **NIPS 2018**. \[code]
 * [Chain of Reasoning for Visual Question Answering](https://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering) - Chenfei Wu et al, **NIPS 2018**. \[code]
 * [Learning to Specialize with Knowledge Distillation for Visual Question Answering](https://papers.nips.cc/paper/8031-learning-to-specialize-with-knowledge-distillation-for-visual-question-answering) - Jonghwan Mun et al, **NIPS 2018**. \[code]
@@ -373,7 +373,7 @@ Markdown format:
 
 #### CVPR 2018
 
-* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,634 | 🐛 150 | 🌐 Python | 📅 2026-10-06 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 768 | 🐛 19 | 🌐 Python | 📅 2024-03-10
+* [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html) - 	Peter Anderson et al, **CVPR 2018**. [\[code(author)\]](https://github.com/peteanderson80/bottom-up-attention) ⭐ 1,469 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2023-02-03 [\[code(pythiaV0.1)\]](https://github.com/facebookresearch/pythia) ⭐ 5,634 | 🐛 150 | 🌐 Python | 📅 2026-10-06 [\[code(Pytorch Reimplementation)\]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) ⭐ 767 | 🐛 19 | 🌐 Python | 📅 2024-03-10
 * [Textbook Question Answering Under Instructor Guidance With Memory Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html) - Juzheng Li et al, **CVPR 2018**. [\[code\]](https://github.com/freerailway/igmn) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2018-06-20
 * [Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge](http://openaccess.thecvf.com/content_cvpr_2018/html/Teney_Tips_and_Tricks_CVPR_2018_paper.html) - Damien Teney et al, **CVPR 2018**. \[code]
 * [Learning by Asking Questions](http://openaccess.thecvf.com/content_cvpr_2018/html/Misra_Learning_by_Asking_CVPR_2018_paper.html) - Ishan Misra et al, **CVPR 2018**. \[code]
@@ -432,11 +432,11 @@ Markdown format:
 
 #### OTHER
 
-Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
+Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 438 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
 
 #### ICCV 2017
 
-* [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://ieeexplore.ieee.org/document/8237547) - Hedi Ben-younes et al, **ICCV 2017**. [\[code\]](https://github.com/cadene/vqa.pytorch) ⭐ 733 | 🐛 19 | 🌐 Python | 📅 2019-12-11
+* [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://ieeexplore.ieee.org/document/8237547) - Hedi Ben-younes et al, **ICCV 2017**. [\[code\]](https://github.com/cadene/vqa.pytorch) ⭐ 734 | 🐛 19 | 🌐 Python | 📅 2019-12-11
 * [**Multi-modal Factorized Bilinear Pooling with Co-attention Learning for Visual Question Answering**](https://ieeexplore.ieee.org/document/8237464) - Zhou Yu et al, **ICCV 2017**. [\[code\]](https://github.com/yuzcccc/vqa-mfb) ⭐ 184 | 🐛 2 | 🌐 Python | 📅 2019-07-30
 * [Structured Attentions for Visual Question Answering](https://ieeexplore.ieee.org/document/8237407) - Chen Zhu et al, **ICCV 2017**. [\[code\]](https://github.com/shtechair/vqa-sva) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2018-03-04
 * [VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation](https://ieeexplore.ieee.org/document/8237463) - Chuang Gan et al, **ICCV 2017**. [\[code\]](https://github.com/Cold-Winter/vqs) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2017-08-01
@@ -474,10 +474,10 @@ To the extent possible under law, [Jokie Leung](https://github.com/jokieleung) h
 ## Reference and Acknowledgement
 
 * [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) ⭐ 1,069 | 🐛 3 | 📅 2023-03-28 from [Zhihong Chen](https://github.com/zhjohnchan)
-* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 437 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
+* [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) ⭐ 438 | 🐛 6 | 📅 2018-10-07 from [JamesChuanggg](https://github.com/JamesChuanggg)
 
 Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
