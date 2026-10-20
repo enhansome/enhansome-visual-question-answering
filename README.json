@@ -1121,7 +1121,7 @@
                     "open_issues": 80,
                     "owner": "peteanderson80",
                     "repo": "bottom-up-attention",
-                    "stars": 1469,
+                    "stars": 1470,
                     "topics": [
                       "caffe",
                       "captioning-images",
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:08:41.677Z",
+    "last_updated": "2026-10-20T22:43:53.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
