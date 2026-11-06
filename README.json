@@ -121,7 +121,7 @@
                     "open_issues": 19,
                     "owner": "AndersonStra",
                     "repo": "MuKEA",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:32:55.820Z",
+    "last_updated": "2026-11-06T00:34:25.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",

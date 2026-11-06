@@ -113,7 +113,7 @@ Markdown format:
 
 #### CVPR 2022
 
-* [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.09138) - Yang Ding et al, **CVPR 2022**. [\[code\]](https://github.com/AndersonStra/MuKEA) ⭐ 99 | 🐛 19 | 🌐 Python | 📅 2023-03-30
+* [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.09138) - Yang Ding et al, **CVPR 2022**. [\[code\]](https://github.com/AndersonStra/MuKEA) ⭐ 100 | 🐛 19 | 🌐 Python | 📅 2023-03-30
 * [Dual-Key Multimodal Backdoors for Visual Question Answering](https://arxiv.org/abs/2112.07668) - Matthew Walmer et al, **CVPR 2022**. [\[code\]](https://github.com/SRI-CSL/TrinityMultimodalTrojAI) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2022-06-27
 * [SwapMix: Diagnosing and Regularizing the Over-reliance on Visual Context in Visual Question Answering](https://arxiv.org/abs/2204.02285) - Vipul Gupta et al, **CVPR 2022**. [\[code\]](https://github.com/vipulgupta1011/swapmix) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-10-21
 * [Maintaining Reasoning Consistency in Compositional Visual Question Answering](https://jingchenchen.github.io/files/papers/2022/CVPR_DLR.pdf) - Chenchen Jing et al, **CVPR 2022**. [\[code\]](https://github.com/jingchenchen/ReasoningConsistency-VQA) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-08-14
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
