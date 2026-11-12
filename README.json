@@ -907,7 +907,7 @@
                     "open_issues": 10,
                     "owner": "Cadene",
                     "repo": "block.bootstrap.pytorch",
-                    "stars": 354,
+                    "stars": 353,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:28:24.552Z"
@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:15:42.626Z",
+    "last_updated": "2026-11-12T01:41:24.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",

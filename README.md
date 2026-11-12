@@ -331,7 +331,7 @@ Markdown format:
 
 #### AAAI 2019
 
-* [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/abs/1902.00038) - Hedi Ben-younes et al, **AAAI 2019**. [\[code\]](https://github.com/Cadene/block.bootstrap.pytorch) ⭐ 354 | 🐛 10 | 🌐 Python | 📅 2019-12-04
+* [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/abs/1902.00038) - Hedi Ben-younes et al, **AAAI 2019**. [\[code\]](https://github.com/Cadene/block.bootstrap.pytorch) ⭐ 353 | 🐛 10 | 🌐 Python | 📅 2019-12-04
 * [Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering](https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a) - Xiangpeng Li et al, **AAAI 2019**. [\[code\]](https://github.com/lixiangpengcs/PSAC) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2021-04-15
 * WK-VQA: World Knowledge-enabled Visual Question Answering - Sanket Shah et al, **AAAI 2019**. [\[code\]](https://github.com/sanket0211/WK-VQA) ⭐ 22 | 🐛 8 | 🌐 Python | 📅 2020-11-26
 * [Dynamic Capsule Attention for Visual Question Answering](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf) - Yiyi Zhou et al, **AAAI 2019**. [\[code\]](https://github.com/XMUVQA/CapsAtt) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2019-12-07
@@ -480,4 +480,4 @@ Really appreciate for their contributions in this area.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
