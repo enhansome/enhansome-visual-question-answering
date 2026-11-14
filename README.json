@@ -1441,7 +1441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:29:41.325Z",
+    "last_updated": "2026-11-14T23:26:22.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Visual Question Answering(VQA)(Image/Video Question Answering),Visual Question Generation ,Visual Dialog ,Visual Commonsense Reasoning and related area.",
@@ -1453,7 +1453,7 @@
       "open_issues": 12,
       "owner": "jokieleung",
       "repo": "awesome-visual-question-answering",
-      "stars": 674,
+      "stars": 675,
       "topics": [
         "attention-networks",
         "awesome-list",
